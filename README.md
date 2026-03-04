@@ -1,2 +1,3 @@
-# TheDocumentation
-Thedocumentation
+# docs
+
+[test](./test.md)
