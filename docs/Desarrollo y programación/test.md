@@ -1,7 +1,9 @@
 # Prueba
 
 ## Prueba de código ejecutable
-<script>let micropip = pyodide.pyimport(pandas);</script>
+<py-config>
+    packages = ["matplotlib", "pandas"]
+</py-config>
 ```{.py .pyscript}
 import pandas as pd
 
