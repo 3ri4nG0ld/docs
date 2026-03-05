@@ -1,16 +1,7 @@
 # Prueba
 
 ## Prueba de código ejecutable
-<py-config>
-{
-    "packages": ["pandas"]
-}
-</py-config>
-<py-env>
-- matplotlib
-- numpy
-- pandas
-</py-env>
+
 
 ```{.py .pyscript}
 import pandas as pd
@@ -29,9 +20,6 @@ print("Hello, world!")
 
 ## Prueba de código sin ejecutable 2
 ```python
-import pyodide_js
-await pyodide_js.loadPackage('numpy')
-
 import numpy as np
 
 print(np.random.randn(10, 4))
