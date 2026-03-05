@@ -1,9 +1,11 @@
 # Prueba
 
 ## Prueba de código ejecutable
-<py-env>
-- pandas
-</py-env>
+<py-config>
+{
+    "packages": ["pandas"]
+}
+</py-config>
 ```{.py .pyscript}
 import pandas as pd
 
