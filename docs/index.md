@@ -1,4 +1,4 @@
-# Inicio
+# La Documentación
 
 ## ¿Qué es La Documentación? 
 La documentación es una pagina creada por 3ri4nG0ld pensada principalmente para documentar distintos procedimientos, proyectos, etc... relacionados con la informática y la tecnología, aunque quizás en un futuro pueda abarcar mas áreas. 
