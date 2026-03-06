@@ -26,5 +26,6 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
-      - run: pip install mkdocs-pyscript
+      - run: pip install mkdocs-jupyter
+      - run: pip install "markdown-exec[ansi]"
       - run: mkdocs gh-deploy --force
